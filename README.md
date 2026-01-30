@@ -2,28 +2,50 @@
 
 # 📚 Online Book Store Analysis | SQL
 
-# 📌 Project Overview
-This SQL project analyzes an online bookstore database to gain insights
-into sales performance, customer behavior, and popular book genres.
+# 🎯 Problem Statement
+Managing book inventory, tracking sales, and analyzing customer behavior
+was difficult due to the absence of a structured database system.
 
-# 📊 Key Insights
-- Total Revenue Generated
-- Genre-wise Sales Analysis
-- Top Selling Books
-- High-Value Customers
-- City-wise Revenue Distribution
+# 🎯 Objective
+- Design a relational database for an online bookstore
+- Store and manage Books, Customers, and Orders data
+- Perform SQL queries for data analysis and reporting
+- Generate business insights for decision-making
 
-# 🛠 Tools & Concepts
-- SQL (Joins, Group By, Aggregate Functions)
-- MySQL / PostgreSQL
-- GitHub
+# 🗂 Dataset Overview
+- Books
+- Customers
+- Orders
+- Order_Items
+
+# 📝 SQL Queries Performed
+- Retrieve books by genre and publication year
+- Identify top-selling and most expensive books
+- Calculate total revenue
+- Analyze customer spending behavior
+- Track inventory and stock levels
+
+# 💡 Insights & Outcomes
+- Identified top genres and authors for marketing
+- Highlighted best-selling books
+- Improved inventory and stock management
+- Enabled revenue tracking and customer analysis
 
 # 📂 Project Files
-- schema.sql – Database design
-- data.sql – Sample dataset
-- queries.sql – Analysis queries
-- Screenshots – Query outputs
+- `schema.sql` – Database structure
+- `data.sql` – Sample data
+- `queries.sql` – SQL analysis queries
+- `SQL PPT_FINAL.pptx` – Project presentation
 
-# 👩‍💻 Created by
+# 🛠 Tools Used
+- MySQL / PostgreSQL
+- SQL
+- GitHub
+
+# 👩‍💻 Presented By
+Siddhi Shinde
+
+
+
 Siddhi Shinde
 
