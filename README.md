@@ -2,6 +2,7 @@
 
 # 📚 Online Book Store Analysis | SQL
 
+
 # 🎯 Problem Statement
 Managing book inventory, tracking sales, and analyzing customer behavior
 was difficult due to the absence of a structured database system.
@@ -43,9 +44,5 @@ was difficult due to the absence of a structured database system.
 - GitHub
 
 # 👩‍💻 Presented By
-Siddhi Shinde
-
-
-
 Siddhi Shinde
 
